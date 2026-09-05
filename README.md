@@ -8,6 +8,20 @@
 
 > Автор рекомендует не читать книгу подряд: «Читайте понемногу с любого заинтересовавшего Вас места. Думайте, спорьте, критикуйте».
 
+## About this book / English keywords
+
+**Modelovedenie** (Моделеведение), by **Vladimir E. Darevsky**, is a Russian-language monograph published in **2022** by Pero (Moscow).
+
+The book studies **models and modeling as universal methods of knowledge, explanation, design, classification, and understanding**. It brings together examples of models from mathematics, natural sciences, engineering, history, sociology, political science, law, education, anthropology, religion, art, sport, propaganda, conflict studies, game theory, and other fields.
+
+Useful English search terms and concepts associated with the book include:
+
+`modeling` · `models` · `model theory` · `theory of models` · `methodology of modeling` · `model-based thinking` · `knowledge modeling` · `philosophy of science` · `systems thinking` · `sociology` · `sociology of knowledge` · `classification` · `epistemology` · `artificial intelligence` · `AI and models`
+
+The repository contains the full text in a machine-readable Markdown version as well as the original Word document for comparison. It is intended to make the book discoverable and usable by both people and AI systems.
+
+**Citation:** Darevsky, Vladimir E. *Modelovedenie (Моделеведение).* Moscow: Pero, 2022.
+
 ## Об этой публикации
 
 Этот репозиторий создан для открытого распространения книги и подготовки её машиночитаемой версии, пригодной для работы с современными системами искусственного интеллекта.
@@ -114,6 +128,3 @@
 ---
 
 **Моделеведение — книга о моделях. Этот репозиторий — способ сделать её доступной не только людям, но и новым поколениям интеллектуальных систем.**
-
-
-
