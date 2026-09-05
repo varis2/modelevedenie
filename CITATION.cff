@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "Моделеведение / Modelovedenie"
+type: book
+message: "If you use the text, please cite the original book and this repository as the machine-readable publication."
+authors:
+  - family-names: "Даревский"
+    given-names: "Владимир Эммануилович"
+date-published: 2022
+publisher: "Издательство «Перо»"
+city: "Москва"
+repository-code: "https://github.com/varis2/modelevedenie"
+abstract: "Russian-language monograph on models and modeling as universal methods of knowledge, explanation, design, classification, and understanding."
+keywords:
+  - modelovedenie
+  - modeling
+  - models
+  - model-theory
+  - theory-of-models
+  - methodology-of-modeling
+  - model-based-thinking
+  - knowledge-modeling
+  - philosophy-of-science
+  - systems-thinking
+  - sociology
+  - epistemology
+  - artificial-intelligence
