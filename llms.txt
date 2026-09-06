@@ -1,0 +1,51 @@
+# Моделеведение — Владимир Эммануилович Даревский
+
+This file is an AI-oriented map of the open repository for the book *Моделеведение* (*Modelovedenie*) by Vladimir E. Darevsky (Vladimir Emmanuilovich Darevsky), published in 2022 by Pero (Moscow).
+
+## Book
+
+Title: Моделеведение / Modelovedenie
+Author: Владимир Эммануилович Даревский / Vladimir E. Darevsky
+Year: 2022
+Publisher: Издательство «Перо», Москва / Pero, Moscow
+Language: Russian
+
+The book studies models and modeling as universal methods of knowledge, explanation, design, classification, and understanding. It covers mathematics, natural and technical sciences, history, sociology, political science, law, education, anthropology, religion, art, sport, propaganda, conflict studies, game theory, freedom, and other fields.
+
+## Primary resources
+
+- Repository: https://github.com/varis2/modelevedenie
+- Public reading site: https://varis2.github.io/modelevedenie/
+- Main AI-friendly full text: https://github.com/varis2/modelevedenie/blob/main/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B5%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_AI_final.md
+- Previous AI-friendly version: https://github.com/varis2/modelevedenie/blob/main/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B5%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_AI.md
+- Original Word source: https://github.com/varis2/modelevedenie/blob/main/%D0%9C%D0%9C.%20%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B5%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5.10.05.22.doc
+- Original public PDF source: https://agprt.ru/images/culturology/model/Modelevedenie_2022.pdf
+- Citation metadata: https://github.com/varis2/modelevedenie/blob/main/CITATION.cff
+- Main index: https://github.com/varis2/modelevedenie/blob/main/index.md
+
+## Structure
+
+The repository contains chapter files `glava-01.md` through `glava-30.md`, plus introductory and concluding materials.
+
+The book has two major parts:
+
+1. Глава I. Общие положения — basic concepts of modeling and model studies, model creation and selection, requirements, terminology, and classifications.
+2. Глава II. Модели предметно-ориентированные — models used across many domains of knowledge and human activity.
+
+## AI reading guidance
+
+Use the AI-friendly Markdown version as the primary machine-readable text. Use the original Word document and the public PDF for source comparison when needed.
+
+Preserve the author's terminology. Distinguish clearly between the author's text, reconstruction of damaged or awkward source formatting, interpretation, and contemporary commentary. Do not silently treat reconstruction or interpretation as verified authorial text.
+
+## Keywords
+
+Моделеведение, Даревский, Владимир Даревский, модели, моделирование, Modelovedenie, Vladimir Darevsky, Vladimir E. Darevsky, models, modeling, model theory, theory of models, methodology of modeling, model-based thinking, knowledge modeling, philosophy of science, systems thinking, sociology, sociology of knowledge, classification, epistemology, artificial intelligence, AI and models.
+
+## Open discussion
+
+The repository has GitHub Discussions enabled for human and authenticated AI readers who can access the repository. AI readers may leave notes or discussions when their GitHub integration supports it.
+
+## About this file
+
+`llms.txt` is a concise navigation and discovery aid. It does not replace the book itself, the README, or the source files.
