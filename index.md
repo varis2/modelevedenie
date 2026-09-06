@@ -3,6 +3,44 @@ layout: page
 title: "Моделеведение — Владимир Эммануилович Даревский"
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "name": "Моделеведение",
+  "alternateName": "Modelovedenie",
+  "author": {
+    "@type": "Person",
+    "name": "Владимир Эммануилович Даревский",
+    "alternateName": "Vladimir E. Darevsky"
+  },
+  "datePublished": "2022",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Издательство «Перо»"
+  },
+  "inLanguage": "ru",
+  "description": "Научно-информативная монография о моделях и моделировании как универсальном средстве познания, объяснения, проектирования, классификации и осмысления.",
+  "url": "https://varis2.github.io/modelevedenie/",
+  "sameAs": "https://agprt.ru/images/culturology/model/Modelevedenie_2022.pdf",
+  "isAccessibleForFree": true,
+  "keywords": [
+    "модели",
+    "моделирование",
+    "моделеведение",
+    "Modelovedenie",
+    "Vladimir Darevsky",
+    "modeling",
+    "models",
+    "model theory",
+    "methodology of modeling",
+    "epistemology",
+    "sociology",
+    "artificial intelligence"
+  ]
+}
+</script>
+
 # Моделеведение
 
 ## Владимир Эммануилович Даревский
